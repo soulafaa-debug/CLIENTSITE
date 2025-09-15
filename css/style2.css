@@ -16,7 +16,7 @@
   font-weight: 600;
   position: absolute;
   left: 104px;
-  top: 7px;
+  top: 22px;
   width: 518px;
   height: 48px;
 }
@@ -49,37 +49,28 @@
   top: 27px;
   width: 76px;
 }
-.let-s-create-a-website-design {
+.budt-748-industry-practicum {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-family: "Montserrat-SemiBold", sans-serif;
-  font-size: 72px;
+  font-size: 40px;
   font-weight: 600;
   position: absolute;
-  left: 88px;
-  top: 354px;
-  width: 1264px;
+  left: 104px;
+  top: 208px;
+  width: 933px;
 }
-.i-focus-on-data-systems-and-ai-annotation-with-hands-on-experience-in-python-sql-mongo-db-and-power-bi-at-ef-explore-america-i-manage-and-refine-route-notes-share-point-pages-and-extensive-confluence-content-to-streamline-operations-i-also-work-on-ai-training-projects-applying-technical-guidelines-to-text-image-and-audio-datasets-to-enhance-model-accuracy {
+.budt-748-is-the-capstone-course-for-ms-information-system-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
   font-family: "Montserrat-Regular", sans-serif;
   font-size: 24px;
   line-height: 30px;
   font-weight: 400;
   position: absolute;
-  left: 222px;
-  top: 458px;
+  left: 104px;
+  top: 286px;
   width: 964px;
-}
-.rectangle-1 {
-  background: #a8ff35;
-  border-radius: 30px;
-  width: 180px;
-  height: 57px;
-  position: absolute;
-  left: 630px;
-  top: 652px;
 }
 .soulafa-hajhamad-university-of-maryland-fall-2025 {
   color: #ffffff;
@@ -102,15 +93,30 @@
   top: 27px;
   width: 57px;
 }
-.get-started {
-  color: #1e1e1e;
-  text-align: center;
-  font-family: "Montserrat-SemiBold", sans-serif;
-  font-size: 24px;
-  font-weight: 600;
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
   position: absolute;
-  left: 645px;
-  top: 667px;
-  width: 150px;
-  height: 28px;
+  left: 94px;
+  top: 455px;
+}
+.semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 60px;
+  font-weight: 400;
+  position: relative;
+}
+.semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
 }
